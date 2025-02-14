@@ -16,10 +16,12 @@ It also saves expenses **persistently** using file handling, ensuring data is no
 
 ## 🛠️ Installation & Setup
 
-1. **Clone the repository**  
+1. **Clone the repository**
+   ```sh
    git clone https://github.com/yourusername/ExpenseTracker.git
    cd ExpenseTracker
 
 2. **Compile & Run**
+   ```sh
    javac ExpenseTracker.java
    java ExpenseTracker

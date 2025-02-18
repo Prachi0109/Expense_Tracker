@@ -6,12 +6,12 @@ It also saves expenses **persistently** using text file, ensuring data is not lo
 ---
 
 ## 📜 Features
-✔ **Add Expense** → Enter amount, category, and date.
-✔ **View Expenses** → Display all recorded expenses.
-✔ **Delete Expense** → Delete specific expenses.
-✔ **Total Expense** → Get the sum of all expenses.
-✔ **Monthly Reports** → View expenses for a specific month and year.  
-✔ Data is stored persistently in a text file (expenses.txt)
+✅ Add expenses with amount, category, and date
+✅ View all recorded expenses
+✅ Delete specific expenses
+✅ Calculate total expenses
+✅ Generate a monthly expense report
+✅ Data is stored persistently in a text file (expenses.txt)
 
 ---
 

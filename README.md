@@ -6,7 +6,7 @@ It also saves expenses **persistently** using text file, ensuring data is not lo
 ---
 
 ## 📜 Features
-✔ **Add Expense** → Enter amount, category, and date.  
+✔ **Add Expense** → Enter amount, category, and date.
 ✔ **View Expenses** → Display all recorded expenses.
 ✔ **Delete Expense** → Delete specific expenses.
 ✔ **Total Expense** → Get the sum of all expenses.

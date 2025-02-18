@@ -9,7 +9,7 @@ It also saves expenses **persistently** using text file, ensuring data is not lo
 ✔ **Add Expense** → Enter amount, category, and date.  
 ✔ **View Expenses** → Display all recorded expenses.
 ✔ **Delete Expense** → Delete specific expenses.
-✔ **Total Expense** → Get the sum of all expenses.  
+✔ **Total Expense** → Get the sum of all expenses.
 ✔ **Monthly Reports** → View expenses for a specific month and year.  
 ✔ Data is stored persistently in a text file (expenses.txt)
 

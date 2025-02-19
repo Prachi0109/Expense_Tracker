@@ -1,6 +1,6 @@
 # 💰 Expense Tracker (Console-Based Java Application)
-A simple **console-based Java application** to **track expenses** and **generate monthly expense reports**.  
-This application allows users to **add expense**, **view expenses**, **delete expenses**, **calculate total expenses**, and **generate reports for a specific month**.  
+A simple **console-based Java application** to **track expenses**.  
+This application allows users to **add expense**, **view expenses**, **delete expenses** and **calculate total expenses**.  
 It also saves expenses **persistently** using text file, ensuring data is not lost when the program exits.
 
 ---
@@ -10,7 +10,6 @@ It also saves expenses **persistently** using text file, ensuring data is not lo
 ✔ **View Expenses** → Display all recorded expenses.  
 ✔ **Delete Expense** → Delete specific expenses.  
 ✔ **Total Expense** → Get the sum of all expenses.  
-✔ **Monthly Reports** → View expenses for a specific month and year.  
 ✔ **Persistent Storage** → Data is stored in a text file (`expenses.txt`).  
 
 ---
@@ -26,3 +25,12 @@ It also saves expenses **persistently** using text file, ensuring data is not lo
    ```sh
    javac ExpenseTracker.java
    java ExpenseTracker
+
+---
+
+## 🛠 Technologies Used
+
+-Java  
+-File Handling  
+-Collections (ArrayList)  
+-Scanner (for user input)  
